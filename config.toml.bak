@@ -1,0 +1,3 @@
+title = "Beta Blog Site"
+baseurl = "https://shaoyiyang.me/"
+theme = "hugo-tranquilpeak-theme"
