@@ -31,12 +31,12 @@ canonifyurls = true
   archive = "archives"
 
 [author]
-  name = "Firstname Lastname"
-  bio = "Super bio with markdown support **COOL**"
-  job = "Your job title"
-  location = "France"
+  name = "Shao Yiyang"
+  bio = "3rd Year Computer Science Undergraduate @ **Nanyang Technological University**\n\nIntern Software Engineer @ **Autodesk**"
+  job = "Intern Software Engineer"
+  location = "Singapore"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
-  gravatarEmail = "thibaud.lepretre@gmail.com"
+  gravatarEmail = ""
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
   picture = "https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png"
@@ -102,10 +102,10 @@ canonifyurls = true
   # You must use date format used by Go Time package https://golang.org/pkg/time/
   # Months (not work with short month like "jan", "feb", etc) are translated if translation exists on i18n folders
   # Default format is: January 2, 2006 
-  # dateFormat = "2 January 2006"
+  dateFormat = "2 January 2006"
 
   # Global keywords configuration. Following keywords will be add to every pages
-  # keywords = ["development", "next-gen"]
+  keywords = ["Shao", "Yiyang", "Blog", "Computer", "Science"]
 
   # Hide sidebar on all article page to let article take full width to improve reading, and enjoy wide images and cover images. (true: enable, false: disable)
   clearReading = true
@@ -114,7 +114,7 @@ canonifyurls = true
   # If false it will flat categories.
   hierarchicalCategories = true
 
-  description = "Hugo tranquilpeak theme demo"
+  description = "Shao Yiyang's Blog"
 
   # Customization
   # Define the behavior of the sidebar
@@ -129,7 +129,7 @@ canonifyurls = true
   #    large sidebar is swiped on all lower screens
   # 5: Display header bar on all screens and large sidebar is swiped on large screen
   # 6: Display header bar on all screens and medium sidebar is swiped
-  sidebarBehavior = 1
+  sidebarBehavior = 2
 
   # Your blog cover picture. I STRONGLY recommend you to use a CDN to speed up loading of pages.
   # There is many free CDN like Cloudinary or you can also use indirectly
@@ -161,9 +161,9 @@ canonifyurls = true
   #     icon: search
   #     class: st-search-show-outputs
   [params.header.rightLink]
-    class = ""
-    icon = ""
-    url = "/#about"
+  class = "open-algolia-search"
+  icon = "search"
+  url = "/#search"
 
   # Customize like of athor avatar in sidebar
   # [params.sidebar.profile]
