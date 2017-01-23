@@ -28,15 +28,14 @@ canonifyurls = true
 [taxonomies]
   tag = "tags"
   category = "categories"
-  archive = "archives"
 
 [author]
   name = "Shao Yiyang"
   bio = "3rd Year Computer Science Undergraduate @ **Nanyang Technological University**\n\nIntern Software Engineer @ **Autodesk**"
-  job = "Intern Software Engineer"
+  job = "Student"
   location = "Singapore"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
-  gravatarEmail = ""
+  gravatarEmail = "shaoyiyang312@hotmail.com"
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
   picture = "https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png"
@@ -65,30 +64,11 @@ canonifyurls = true
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-tags\"></i>"
   url = "/tags"
 [[menu.main]]
-  weight = 3
-  identifier = "archives"
-  name = "Archives"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-archive\"></i>"
-  url = "/archives"
-[[menu.main]]
   weight = 4
   identifier = "about"
   name = "About"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
   url = "/#about"
-
-[[menu.links]]
-  weight = 0
-  identifier = "github"
-  name = "GitHub"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-github\"></i>"
-  url = "https://github.com/kakawait"
-[[menu.links]]
-  weight = 1
-  identifier = "stackoverflow"
-  name = "Stack Overflow"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-stack-overflow\"></i>"
-  url = "https://stackoverflow.com/users/636472/kakawait"
 
 [[menu.misc]]
   weight = 0
@@ -112,7 +92,7 @@ canonifyurls = true
 
   # Define categories will create hierarchy between parents: `categories = ["foo", "bar"]` will consider "bar" a sub-category of "foo". 
   # If false it will flat categories.
-  hierarchicalCategories = true
+  hierarchicalCategories = false
 
   description = "Shao Yiyang's Blog"
 
@@ -147,7 +127,7 @@ canonifyurls = true
   # Display thumbnail image at the right of title in index pages (`right`, `left` or `bottom`)
   # Set this value to `right` if you have old posts to keep the old style on them
   # and define `thumbnailImagePosition` on a post to overwrite this setting
-  thumbnailImagePosition = "bottom"
+  thumbnailImagePosition = "left"
   # Automatically select the cover image or the first photo from the gallery of a post if there is no thumbnail image as the thumbnail image
   # Set this value to `true` if you have old posts that use the cover image or the first photo as the thumbnail image
   # and set `autoThumbnailImage` to `false` on a post to overwrite this setting
@@ -161,9 +141,9 @@ canonifyurls = true
   #     icon: search
   #     class: st-search-show-outputs
   [params.header.rightLink]
-  class = "open-algolia-search"
-  icon = "search"
-  url = "/#search"
+  class = ""
+  icon = ""
+  url = "/#about"
 
   # Customize like of athor avatar in sidebar
   # [params.sidebar.profile]
