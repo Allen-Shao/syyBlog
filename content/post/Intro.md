@@ -11,13 +11,14 @@ keywords:
 - introduction
 - blog
 - blogging
-autoThumbnailImage: false
+autoThumbnailImage: true
 thumbnailImagePosition: left
-thumbnailImage: http://workhardanywhere.com/wp-content/uploads/2016/10/WHA_Akshat.jpg
-coverImage: http://workhardanywhere.com/wp-content/uploads/2016/10/WHA_Akshat.jpg
+coverImage: https://res.cloudinary.com/tinysyy/image/upload/v1485415972/WHA_Akshat_vvirzw.jpg
 coverMeta: out
 coverSize: partial
 metaAlignment: center
+comments: false
+showTags: false
 ---
 This should be officially the first post I write for my blog. I simply want to have an overview of this blog including introduction of myself, the reason I start blogging and the future content in this blog. 
 <!--more-->
