@@ -16,7 +16,8 @@ keywords:
 - Markdown
 autoThumbnailImage: false
 thumbnailImagePosition: left
-thumbnailImage: "https://res.cloudinary.com/tinysyy/image/upload/v1486372429/sharelatex-thumbnail-w200_wpqb5a.png"
+thumbnailImage: https://res.cloudinary.com/tinysyy/image/upload/v1486563555/hipster-glasses-pen-young-163122_bjvdgu.jpg
+coverImage: https://res.cloudinary.com/tinysyy/image/upload/v1486563555/hipster-glasses-pen-young-163122_bjvdgu.jpg
 metaAlignment: center
 comments: false
 showTags: false

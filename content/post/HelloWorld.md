@@ -2,9 +2,9 @@
 title: "Hello World: Welcome to My Blog"
 date: 2017-01-22
 categories:
-- testing
+- introduction
 tags:
-- testing
+- hello world
 keywords:
 - helloworld
 autoThumbnailImage: false
