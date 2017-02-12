@@ -42,7 +42,7 @@ Next, I will talk about two tools that make you focus more on the **content** yo
 
 Simply put, Latex is a tool to generate PDF files. It is very suitable for relatively formal reports, acadamic paper or even CV for your career. It provides different packages that make codes, formulas, tables and pictures look nice and clean. When it comes to chapters, sections and paragraphs, Latex will help you solve all the complicated formatting problem and organize your words in their right positions.
 
-There are plenty of latex compilers(tools) to choose. Some are stored locally, which are very space-consuming(Around 10GB). Instead, I recommand to use Sharelatex. It is a online platform, so it comipiled by the cloud servers. The advantages are obvious:
+There are plenty of latex compilers(tools) to choose. Some are stored locally, which are very space-consuming(Around 10GB). Instead, I recommand to use **Sharelatex**. It is a online platform, so it comipiled by the cloud servers. The advantages are obvious:
 
 * Cloud Storage: All documents will be stored safely online, with sync support with Dropbox and Github
 
