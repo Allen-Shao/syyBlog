@@ -1,5 +1,5 @@
 ---
-title: "How I write staff"
+title: "How I write stuff"
 date: 2017-02-06
 categories:
 - Experience
@@ -26,7 +26,7 @@ showTags: false
 As a university student, I always have reports to write. As a programmer, I need to do documentation for my project. We all need to write things for some purpose.
 
 <!--more-->
-For a very long time, people get used to Microsoft Word (or Pages for MacOS users). Most of people associate typing on a computer with Microsoft Word. Without doubt, Word is one of the most usable and functional tools to write documents. However, in my very personal opinion, I find it not suitable for me and many other normal users, I believe. Absolutely, Microsoft Word is still essential to be installed on the computer and many professions still need it daily. But in this post, I want to introduce several alternatives for writing on a computer and how I write staff.
+For a very long time, people get used to Microsoft Word (or Pages for MacOS users). Most of people associate typing on a computer with Microsoft Word. Without doubt, Word is one of the most usable and functional tools to write documents. However, in my very personal opinion, I find it not suitable for me and many other normal users, I believe. Absolutely, Microsoft Word is still essential to be installed on the computer and many professions still need it daily. But in this post, I want to introduce several alternatives for writing on a computer and how I write stuff.
 
 ## Google Doc
 
