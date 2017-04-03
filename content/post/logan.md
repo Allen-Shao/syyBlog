@@ -15,7 +15,7 @@ keywords:
 autoThumbnailImage: false
 thumbnailImagePosition: left
 thumbnailImage: https://res.cloudinary.com/tinysyy/image/upload/v1488944817/logan_poster_zed9hy.jpg
-coverImage: https://res.cloudinary.com/tinysyy/image/upload/v1488945313/logan-now-playing-desktop-v2-front-main-stage_mw4cme.png
+coverImage: https://res.cloudinary.com/tinysyy/image/upload/c_scale,q_50,w_1720/v1488945313/logan-now-playing-desktop-v2-front-main-stage_mw4cme.png
 coverMeta: out
 coverSize: partial
 metaAlignment: center

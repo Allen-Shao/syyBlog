@@ -58,7 +58,8 @@ You can start your new experience from [here](https://www.sharelatex.com?r=d0179
 
 ## Markdown
 
-Markdown is a simple html generator. It is made for web pages such as github wiki doc and some websites. My blog posts are purely based on Markdown. It is much easier than latex and takes no more than 10 minutes to learn. This is a simple, interactive tutorial for Markdown. Learn and ENJOY!  
+Markdown is a simple html generator. It is made for web pages such as github wiki doc and some websites. My blog posts are purely based on Markdown. It is much easier than latex and takes no more than 10 minutes to learn. [This](http://www.markdowntutorial.com/) is a simple, interactive tutorial for Markdown. 
+After walking through the tutorial. This [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is extremely useful when you practice. Learn and ENJOY!  
 
 ## Conclusion
 
