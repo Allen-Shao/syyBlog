@@ -32,7 +32,7 @@ canonifyurls = true
 
 [author]
   name = "Shao Yiyang"
-  bio = "3rd Year Computer Science Undergraduate @ **Nanyang Technological University**  \nIntern Software Engineer @ **Autodesk**"
+  bio = "3rd Year Computer Science Undergraduate @ **Nanyang Technological University**  \nResearch and Development Intern @ **NVIDIA**"
   job = "Student"
   location = "Singapore"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
